@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+.oneandfive {
+background-color: salmon;
+font-size: 18px;
+}
+.three { 
+    font-size: 24px;
+    }
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#four { 
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
